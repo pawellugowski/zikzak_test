@@ -75,19 +75,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  js:
-    dependency: transitive
-    description:
-      name: js
-      sha256: "53385261521cc4a0c4658fd0ad07a7d14591cf8fc33abbceae306ddb974888dc"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.7.2"
   leak_tracker:
     dependency: transitive
     description:
@@ -233,58 +220,42 @@ packages:
     dependency: "direct main"
     description:
       name: zikzak_inappwebview
-      sha256: "16a8112b8dea98c83aaa4e1fcaca8809981b527917700bb48e7c46671a3df0d8"
+      sha256: "606665eaaebc55780dbc622101282f7f7c9f19593b4827b77ff3d9a29d129ab3"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.28"
+    version: "3.0.0"
   zikzak_inappwebview_android:
     dependency: transitive
     description:
       name: zikzak_inappwebview_android
-      sha256: "6038bf10b72b465e6ea9c90153717cd8fb05074de301280f89612aaa78d0c64e"
+      sha256: b93d78e01dac6ac06b2b83b0f7a66608a2e64de5b4095b3e3cf8132612e768a6
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.28"
+    version: "3.0.0"
   zikzak_inappwebview_internal_annotations:
     dependency: transitive
     description:
       name: zikzak_inappwebview_internal_annotations
-      sha256: "71c822de024e63e03b8f262979635685efdbd7ac15c212c1049f680e7014aa61"
+      sha256: "62e38345f708bf2525c96887c09f5b24674cc4da857ed80f8d24c4b6eec92253"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.28"
+    version: "3.0.0"
   zikzak_inappwebview_ios:
     dependency: transitive
     description:
       name: zikzak_inappwebview_ios
-      sha256: cf5587374e27a75c5512c03c95c84820f09084b48388b538a49bce07bd1037ad
+      sha256: "5a2e9a9071cce03580e762e602b66e65bd55f07eafd2bab37fba683c8e840dbf"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.28"
-  zikzak_inappwebview_macos:
-    dependency: transitive
-    description:
-      name: zikzak_inappwebview_macos
-      sha256: "153039fc472f8211e2338f62a0f5b65d572d362d293740c01b61a2d0c9b4839e"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.4.28"
+    version: "3.0.0"
   zikzak_inappwebview_platform_interface:
     dependency: transitive
     description:
       name: zikzak_inappwebview_platform_interface
-      sha256: "018c5087cb7515f382d34030dee71c191e8c3af3065b92d81e05bbf256177015"
+      sha256: "79bc66b8fca49d896d6f16d4e725bc5933506047cc0893b938a048d4590f9862"
       url: "https://pub.dev"
     source: hosted
-    version: "2.4.28"
-  zikzak_inappwebview_web:
-    dependency: transitive
-    description:
-      name: zikzak_inappwebview_web
-      sha256: "5c28f578f224022dbef3dbceac6a1410c16da5d51bdf3e029cb78398860efb6a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.4.28"
+    version: "3.0.0"
 sdks:
   dart: ">=3.10.3 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
